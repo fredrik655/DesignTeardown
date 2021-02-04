@@ -1,0 +1,36 @@
+
+header {
+  height: 97px;
+  padding: 1rem 2em 1rem 2em;
+  background-color: rgb(76, 74, 74);
+}
+
+nav {
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+header ul {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img {
+  width: 270px;
+  height: 97px;
+  margin: auto 0;
+}
+
+header button {
+  background-color: rgb(66, 65, 65);
+  border: none;
+  width: 100px;
+  height: 60px;
+  border-radius: 0.75em;
+  font-size: 2rem;
+  font-weight: 900;
+}
